@@ -1,0 +1,24 @@
+{
+  "name": "dsu_db_app",
+  "version": "1.0.0",
+  "description": "App updates MySQL database dsu_db with random power for a number of sites, sites are then grouped into dsu's with aggregated power values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcasey720/dsu_db_app.git"
+  },
+  "keywords": [
+    "dsu",
+    "node",
+    "vpp"
+  ],
+  "author": "Dan Casey <info@dancasey.ie>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcasey720/dsu_db_app/issues"
+  },
+  "homepage": "https://github.com/dcasey720/dsu_db_app#readme"
+}
