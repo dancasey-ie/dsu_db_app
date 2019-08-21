@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dcasey720/dsu_db_app/issues"
   },
-  "homepage": "https://github.com/dcasey720/dsu_db_app#readme"
+  "homepage": "https://github.com/dcasey720/dsu_db_app#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
 }
