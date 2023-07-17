@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/dcasey720/dsu_db_app#readme",
   "dependencies": {
-    "mysql": "^2.17.1"
+    "mysql": "^2.18.0"
   }
 }
